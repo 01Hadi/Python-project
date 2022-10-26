@@ -1,0 +1,5 @@
+def EX1_5
+if 0 < x <= 1 : print('Infant')
+if 1 < x <= 13 : print('children')
+if 13 < x <= 20 : print('Teenager')
+if x > 20 : print('Adult')
