@@ -1,0 +1,5 @@
+def EX1_2(x,y)
+    high=x
+    base=y
+    s=(x*y)/2
+    return s
